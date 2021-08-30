@@ -29,5 +29,4 @@ Interesses & Conhecimentos:
 
 Veja também:
 
-- Portifólio: https://github.com/gustavohferreira
-- Site Pessoal: bit.do/gustavoferreira
+- LinkedIn: https://www.linkedin.com/in/gustavohferreira/
