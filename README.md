@@ -29,4 +29,6 @@ Interesses & Conhecimentos:
 
 Veja também:
 
-- LinkedIn: https://www.linkedin.com/in/gustavohferreira/
+<a href="https://www.linkedin.com/in/gustavohferreira/">LinkedIn</a>
+<br>
+<a href="https://gustavohferreira.github.io/MeuSite/cv.html">Meu Site</a>
