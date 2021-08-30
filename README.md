@@ -31,4 +31,4 @@ Veja também:
 
 <a href="https://www.linkedin.com/in/gustavohferreira/">LinkedIn</a>
 <br>
-<a href="https://gustavohferreira.github.io/MeuSite/cv.html">Meu Site</a>
+<a href="https://gustavohferreira.github.io/MeuSite/index.html">Meu Site</a>
