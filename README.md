@@ -2,9 +2,7 @@ Primeiramente, resolver problemas sempre foi minha paixão.
 
 Prazer, me chamo Gustavo, sou amante e entusiasta de tecnologia e finalmente decidi focar essa paixão profissionalmente.
 
-Durante minha jornada eu colecionei diversas histórias (algumas ótimas e outras nem tanto) e me conectei com pessoas simplesmente incríveis.
-
-Me considero um promotor da cultura e de boas práticas. Para endossar isso, prefiro me manter em contato com atividades técnicas e de liderança. Curto me aproximar das pessoas, me ligando em suas aspirações de carreira e predileções pessoais.
+Me considero um promotor da cultura e de boas práticas. Para endossar isso, prefiro me manter em contato com atividades técnicas. Curto me aproximar das pessoas, me ligando em suas aspirações de carreira e predileções pessoais.
 
 Flexível à novos desafios, sempre em busca de novas ideias para melhoria contínua, focando na tecnologia, nos estudos e na proximidade com pessoas como ferramentas essenciais para melhores resultados no mercado de trabalho.
 
@@ -18,7 +16,18 @@ Profissionalmente possuo mais de 4 anos de experiência em empresas de bens de c
 
 ✔️ Suporte a representantes, gestores e gerentes, com elaboração de relatórios para controle de KPI's;
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (2º Semestre) e graduado em Logística e Fabricação Mecânica, com inglês avançado completando meu perfil.
+Sou estudante de Análise e Desenvolvimento de Sistemas (2º Semestre) e graduado em Logística e Fabricação Mecânica, com inglês completando meu perfil.
 
-Atualmente estou disponível no mercado e tenho como principal objetivo:
-Conquistar minha primeira oportunidade na área de tecnologia.
+Interesses & Conhecimentos: 
+
+- Programação: JavaScript, HTML5, CSS3;
+- Banco de Dados: MySQL;
+- Versionamento: Git, GitHub;
+- Suporte Técnico: Hardware, Software;
+- Pessoas: Gestão de Conflitos;
+- ERP: SAP Planning-Process, SAP Demand-Planning;
+
+Veja também:
+
+- Portifólio: https://github.com/gustavohferreira
+- Site Pessoal: bit.do/gustavoferreira
