@@ -2,8 +2,8 @@
 <br>
 <div>
     <a href="https://github.com/gustavohferreira">
-    <img width="430" src="https://github-readme-stats.vercel.app/api?username=gustavohferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohferreira&layout=compact&langs_count=7&theme=dark"/>
+    <img width="420" src="https://github-readme-stats.vercel.app/api?username=gustavohferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohferreira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 Primeiramente, resolver problemas sempre foi minha paixão.
